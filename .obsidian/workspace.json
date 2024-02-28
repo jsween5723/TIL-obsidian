@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "334d75cc307e1d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfecc0976a396e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5304659383694e62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "282bf63e8cf45205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "300502120bd2507d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG/자연어 처리/용어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2caf20b3fd5aff89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfa165ce053d30eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f433463e407f2dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26786cf3b061f624",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6d73f8c05767645",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#토큰",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64f2cb3469eb1f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7def274b506d385f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11704f62cef3ba09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f3f3610436ba212",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RAG/자연어 처리/용어.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b24283eab11d8db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RAG/자연어 처리/용어.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4a85db2d7ad4d03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7cd25df9e3019e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RAG/자연어 처리/용어.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "publish:변경사항 출판": false
+    }
+  },
+  "active": "e6d73f8c05767645",
+  "lastOpenFiles": [
+    "202402290130.md",
+    "RAG/자연어 처리/용어.md",
+    "RAG/자연어 처리",
+    "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
+    "RAG",
+    "책/마스터링 이더리움/202210281149 10. 토큰.md",
+    "책/마스터링 이더리움/202210281015 13. 이더리움 가상머신.md",
+    "책/마스터링 이더리움/202210271918 6. 트랜잭션.md",
+    "책/마스터링 이더리움/202210271726 1. 이더리움이란 무엇인가.md",
+    "책/마스터링 이더리움/202210271835 3. 이더리움 클라이언트.md",
+    "책/마스터링 이더리움",
+    "책/한권으로 끝내는 블록체인 교과서/202210271617 7. 스마트 계약의 계약 집행 구조 이해하기.md",
+    "책/한권으로 끝내는 블록체인 교과서/202210271423 6. 블록체인에 거래를 기록하는 트랜잭션 이해하기.md",
+    "책/한권으로 끝내는 블록체인 교과서/202210261841 5. 지갑의 구조 이해하기.md",
+    "책/한권으로 끝내는 블록체인 교과서/202210261752 4. 블록체인을 지원하는 분산 시스템.md",
+    "책/한권으로 끝내는 블록체인 교과서/202210261656 3. 블록체인을 지원하는 암호화 기술 이해하기.md",
+    "책/한권으로 끝내는 블록체인 교과서/202210261546 2. 비트코인 살펴보기.md",
+    "책/한권으로 끝내는 블록체인 교과서/202210261509 1. 블록체인 이해하기.md",
+    "책/한권으로 끝내는 블록체인 교과서",
+    "책/데이터 중심 애플리케이션 설계/202301011244 2. 데이터 모델과 질의 언어.md",
+    "책/데이터 중심 애플리케이션 설계/202212270927 1. 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션.md",
+    "책/데이터 중심 애플리케이션 설계",
+    "책/오브젝트/202212110640 5. 책임 할당하기.md",
+    "책/오브젝트/202210231935 4.설계 품질과 트레이드오프.md",
+    "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
+    "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
+    "책/오브젝트/202210111732 1.객체, 설계.md",
+    "책/오브젝트",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(1).md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O 예제.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석",
+    "인프런/swift문법 마스터",
+    "스터디/타입스크립트",
+    "사진/스크린샷 2022-10-11 오후 6.18.30.png",
+    "교육 프로그램/원티드 백엔드 챌린지 10월"
+  ]
+}
