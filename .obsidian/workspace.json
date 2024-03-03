@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfecc0976a396e46",
+        "id": "5384aec5f5385814",
         "type": "tabs",
         "children": [
           {
-            "id": "5304659383694e62",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2caf20b3fd5aff89",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b53008f92eab6bd3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "282bf63e8cf45205",
+            "id": "d802a83f8612e9af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/자연어 처리/용어.md",
+                "file": "RAG/자연어 처리/Char-RNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RAG/자연어 처리/용어.md",
+                "file": "RAG/자연어 처리/Char-RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RAG/자연어 처리/용어.md",
+                "file": "RAG/자연어 처리/Char-RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAG/자연어 처리/용어.md"
+                "file": "RAG/자연어 처리/Char-RNN.md"
               }
             }
           }
@@ -173,10 +150,19 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "282bf63e8cf45205",
+  "active": "d802a83f8612e9af",
   "lastOpenFiles": [
-    "책/오브젝트/202210111732 1.객체, 설계.md",
+    "RAG/자연어 처리/RNN.md",
+    "RAG/자연어 처리/Char-RNN.md",
+    "RAG/자연어 처리/N-gram.md",
+    "RAG/자연어 처리/언어 모델.md",
     "RAG/자연어 처리/용어.md",
+    "토크나이징.md",
+    "RAG/자연어 처리/NLTK.md",
+    "RAG/통계/용어.md",
+    "스터디/리액트",
+    "RAG/통계",
+    "책/오브젝트/202210111732 1.객체, 설계.md",
     "202402290130.md",
     "RAG/자연어 처리",
     "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
@@ -199,18 +185,9 @@
     "책/데이터 중심 애플리케이션 설계/202212270927 1. 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션.md",
     "책/데이터 중심 애플리케이션 설계",
     "책/오브젝트/202212110640 5. 책임 할당하기.md",
-    "책/오브젝트/202210231935 4.설계 품질과 트레이드오프.md",
-    "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
-    "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
     "책/오브젝트",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(1).md",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O.md",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O 예제.md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석",
     "인프런/swift문법 마스터",
-    "스터디/타입스크립트",
-    "사진/스크린샷 2022-10-11 오후 6.18.30.png",
-    "교육 프로그램/원티드 백엔드 챌린지 10월"
+    "사진/스크린샷 2022-10-11 오후 6.18.30.png"
   ]
 }
