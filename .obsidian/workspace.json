@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kmooc/알기쉬운기업살림살이/음과 양.md",
+                "file": "RAG/자연어 처리/Char-RNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kmooc/알기쉬운기업살림살이/음과 양.md",
+                "file": "RAG/자연어 처리/Char-RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kmooc/알기쉬운기업살림살이/음과 양.md",
+                "file": "RAG/자연어 처리/Char-RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kmooc/알기쉬운기업살림살이/음과 양.md"
+                "file": "RAG/자연어 처리/Char-RNN.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "d802a83f8612e9af",
   "lastOpenFiles": [
-    "음.md",
     "kmooc/알기쉬운기업살림살이/음과 양.md",
+    "음.md",
     "kmooc/알기쉬운기업살림살이/음과 차변.md",
     "kmooc/알기쉬운기업살림살이/회계 과정.md",
     "kmooc/알기쉬운기업살림살이/기업경영.md",
