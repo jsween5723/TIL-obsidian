@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCU/예제로 배우는 C언어/오류.md",
+                "file": "kmooc/알기쉬운기업살림살이/음과 양.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OCU/예제로 배우는 C언어/오류.md",
+                "file": "kmooc/알기쉬운기업살림살이/음과 양.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OCU/예제로 배우는 C언어/오류.md",
+                "file": "kmooc/알기쉬운기업살림살이/음과 양.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCU/예제로 배우는 C언어/오류.md"
+                "file": "kmooc/알기쉬운기업살림살이/음과 양.md"
               }
             }
           }
@@ -139,6 +139,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -152,43 +154,43 @@
   },
   "active": "d802a83f8612e9af",
   "lastOpenFiles": [
+    "음.md",
+    "kmooc/알기쉬운기업살림살이/음과 양.md",
+    "kmooc/알기쉬운기업살림살이/음과 차변.md",
+    "kmooc/알기쉬운기업살림살이/회계 과정.md",
+    "kmooc/알기쉬운기업살림살이/기업경영.md",
+    "kmooc/알기쉬운기업살림살이/계정, 재무상태표 (외행성).md",
+    "kmooc/알기쉬운기업살림살이/계정, 경영성과-포괄손익계산서 (내행성).md",
+    "kmooc/알기쉬운기업살림살이/법인.md",
+    "kmooc/알기쉬운기업살림살이/오행.md",
+    "kmooc/알기쉬운기업살림살이/양과 대변.md",
+    "OCU/모두의 인공지능/뇌.md",
+    "kmooc/알기쉬운기업살림살이",
+    "kmooc",
+    "OCU/모두의 인공지능/인공지능.md",
+    "OCU/모두의 인공지능/지능.md",
+    "OCU/예제로 배우는 C언어/식별자.md",
+    "OCU/모두의 인공지능",
+    "OCU/예제로 배우는 C언어/키워드.md",
+    "OCU/예제로 배우는 C언어/문장.md",
+    "OCU/예제로 배우는 C언어/오류.md",
     "OCU/예제로 배우는 C언어/stdio.h.md",
     "OCU/예제로 배우는 C언어/컴파일러.md",
     "OCU/예제로 배우는 C언어/C언어.md",
     "OCU/예제로 배우는 C언어/IDE.md",
-    "OCU/예제로 배우는 C언어/오류.md",
     "스크린샷 2024-03-04 06.43.42.png",
     "OCU/예제로 배우는 C언어/프로그램 개발 과정.md",
     "OCU/예제로 배우는 C언어/저급 언어.md",
     "OCU/예제로 배우는 C언어/어셈블리어.md",
     "OCU/예제로 배우는 C언어/어셈블러.md",
     "OCU/예제로 배우는 C언어/고급 언어.md",
-    "OCU/예제로 배우는 C언어/기계어.md",
-    "OCU/예제로 배우는 C언어/프로그램.md",
     "OCU/예제로 배우는 C언어",
-    "RAG/자연어 처리/Char-RNN.md",
     "OCU",
-    "RAG/자연어 처리/RNN.md",
-    "RAG/자연어 처리/N-gram.md",
-    "RAG/자연어 처리/언어 모델.md",
-    "RAG/자연어 처리/용어.md",
-    "토크나이징.md",
-    "RAG/자연어 처리/NLTK.md",
-    "RAG/통계/용어.md",
     "스터디/리액트",
     "RAG/통계",
-    "책/오브젝트/202210111732 1.객체, 설계.md",
-    "202402290130.md",
     "RAG/자연어 처리",
-    "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
     "RAG",
-    "책/마스터링 이더리움/202210281149 10. 토큰.md",
-    "책/마스터링 이더리움/202210281015 13. 이더리움 가상머신.md",
-    "책/마스터링 이더리움/202210271918 6. 트랜잭션.md",
     "책/마스터링 이더리움",
-    "책/한권으로 끝내는 블록체인 교과서",
-    "책/데이터 중심 애플리케이션 설계",
-    "책/오브젝트",
     "사진/스크린샷 2022-10-11 오후 6.18.30.png"
   ]
 }
