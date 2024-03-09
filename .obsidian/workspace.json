@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/자연어 처리/Char-RNN.md",
+                "file": "RAG/자연어 처리/임베딩/임베딩.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b69e726596790f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG/자연어 처리/임베딩/임베딩.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9b30c07641ad28c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG/자연어 처리/임베딩/Noise-Contrastive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RAG/자연어 처리/Char-RNN.md",
+                "file": "RAG/자연어 처리/임베딩/Noise-Contrastive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RAG/자연어 처리/Char-RNN.md",
+                "file": "RAG/자연어 처리/임베딩/Noise-Contrastive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAG/자연어 처리/Char-RNN.md"
+                "file": "RAG/자연어 처리/임베딩/Noise-Contrastive.md"
               }
             }
           }
@@ -152,8 +179,22 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "d802a83f8612e9af",
+  "active": "e9b30c07641ad28c",
   "lastOpenFiles": [
+    "스크린샷 2024-03-09 13.28.19.png",
+    "RAG/자연어 처리/임베딩/Skip-gram.md",
+    "RAG/자연어 처리/임베딩/Word2Vec.md",
+    "RAG/자연어 처리/임베딩/Noise-Contrastive.md",
+    "스크린샷 2024-03-09 13.03.48.png",
+    "스크린샷 2024-03-09 12.39.18.png",
+    "스크린샷 2024-03-09 12.35.13.png",
+    "스크린샷 2024-03-09 12.26.51.png",
+    "스크린샷 2024-03-09 11.06.55.png",
+    "RAG/자연어 처리/임베딩/임베딩 모델.md",
+    "RAG/자연어 처리/임베딩/임베딩.md",
+    "RAG/자연어 처리/임베딩",
+    "스크린샷 2024-03-09 10.23.33.png",
+    "RAG/자연어 처리/Char-RNN.md",
     "kmooc/알기쉬운기업살림살이/음과 양.md",
     "음.md",
     "kmooc/알기쉬운기업살림살이/음과 차변.md",
@@ -176,21 +217,13 @@
     "OCU/예제로 배우는 C언어/오류.md",
     "OCU/예제로 배우는 C언어/stdio.h.md",
     "OCU/예제로 배우는 C언어/컴파일러.md",
-    "OCU/예제로 배우는 C언어/C언어.md",
-    "OCU/예제로 배우는 C언어/IDE.md",
     "스크린샷 2024-03-04 06.43.42.png",
-    "OCU/예제로 배우는 C언어/프로그램 개발 과정.md",
-    "OCU/예제로 배우는 C언어/저급 언어.md",
-    "OCU/예제로 배우는 C언어/어셈블리어.md",
-    "OCU/예제로 배우는 C언어/어셈블러.md",
-    "OCU/예제로 배우는 C언어/고급 언어.md",
     "OCU/예제로 배우는 C언어",
     "OCU",
     "스터디/리액트",
     "RAG/통계",
     "RAG/자연어 처리",
     "RAG",
-    "책/마스터링 이더리움",
     "사진/스크린샷 2022-10-11 오후 6.18.30.png"
   ]
 }
