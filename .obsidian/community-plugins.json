@@ -4,5 +4,8 @@
   "obsidian-latex-suite",
   "table-editor-obsidian",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "shortcuts-extender",
+  "obsidian-editor-shortcuts",
+  "code-styler"
 ]
